@@ -25,7 +25,12 @@ Tagsüber kümmere ich mich um Netzwerke, Server und die Dinge, die funktioniere
 
 Ich bin im [Hannoverschen Straßenbahn-Museum](https://www.tram-museum.de/) in Sehnde-Wehmingen aktiv – dort, wo historische Straßenbahnen nicht nur herumstehen, sondern tatsächlich fahren.
 
-Meine Rolle dort ist die technische: Werkzeuge, Apps und kleine Systeme für den Museumsbetrieb. E-Paper-Badges, Funkkonzepte, Digitalkram. Es ist eine erstaunlich gute Kombination – hundert Jahre alte Technik auf der einen Seite, Mikrocontroller auf der anderen.
+Meine Rolle dort ist zweigeteilt.
+Zum einen die technische Seite: Werkzeuge, Apps und kleine Systeme für den Museumsbetrieb. E-Paper-Badges, Funkkonzepte, Digitalkram – alles, was hilft, ohne im Weg zu stehen.
+
+Zum anderen die betriebliche: Als Stammmitglied der Kleinbahn stehe ich zusammen mit meinen Kollegen dafür gerade, dass sonntags Betrieb herrscht. Nicht am Rechner, sondern draußen. 
+
+Eine erstaunlich gute Kombination: hundert Jahre alte Technik auf der einen Seite, Mikrocontroller auf der anderen.
 
 ## Hier auf der Seite
 
