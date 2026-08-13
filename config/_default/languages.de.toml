@@ -11,7 +11,7 @@ title = "thephilluk.de"
   dateFormat = "2.01.2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "My awesome website"
+  description = "Homepage von Philip – IT, Homelab, Projekte"
   copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
