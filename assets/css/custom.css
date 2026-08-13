@@ -1,0 +1,11 @@
+/* Fließtext im Profile-Layout linksbündig */
+main .prose p,
+main .prose ul,
+main .prose ol {
+  text-align: left;
+}
+
+/* Content-Breite erhöhen */
+main .prose {
+  max-width: 60rem;
+}
