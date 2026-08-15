@@ -20,6 +20,16 @@
   pageRef = "homelab"
   weight = 20
 
+
+[[footer]]
+  name = "Kontakt"
+  pageRef = "kontakt"
+  weight = 10
+
+[[footer]]
+  name = "Datenschutz"
+  pageRef = "datenschutz"
+  weight = 20
 #[[main]]
 #  name = "example sub-menu 1"
 #  parent = "Parent"
