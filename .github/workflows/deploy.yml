@@ -36,3 +36,14 @@ jobs:
           rsync -avz --delete \
             -e "ssh -i ~/.ssh/id_ed25519" \
             public/ "${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/srv/www/homepage-neu/"
+
+      - name: Discord Notification
+        if: always()
+        uses: sarisia/actions-status-discord@v1
+        with:
+          webhook: ${{ secrets.DISCORD_WEBHOOK }}
+          status: ${{ job.status }}
+          title: "thephilluk.de Deploy"
+          description: "Commit: ${{ github.event.head_commit.message }}"
+          color: 0x60a5fa
+          username: GitHub Actions
