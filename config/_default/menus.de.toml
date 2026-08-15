@@ -20,6 +20,10 @@
   pageRef = "homelab"
   weight = 20
 
+[[main]]
+  name = "Setup"
+  pageRef = "setup"
+  weight = 30
 
 [[footer]]
   name = "Kontakt"
