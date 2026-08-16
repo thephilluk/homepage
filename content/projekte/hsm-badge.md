@@ -1,7 +1,6 @@
 ---
 title: "HSM-Badge: Ein E-Paper-Namensschild, das mitdenkt"
 date: 2026-08-16
-publishDate: 2026-08-16
 tags: ["micropython", "badger2350", "e-paper", "hsm", "pimoroni"]
 categories: ["Projekte"]
 summary: "Aus einem Pimoroni Badger 2350 ist ein Namensschild fürs Museum geworden – mit Fahrplan, Fahrgastzähler und QR-Code. Und mit ein paar Lektionen über den Unterschied zwischen Simulator und echter Hardware."
